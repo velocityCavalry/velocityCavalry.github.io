@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! My name is Xinyan Yu, you can also call me Velocity. 
+Hi there! My name is Xinyan Yu, you can also call me Velocity :)! 
 
-I am currently a combined B.S./M.S. student at University of Washington studying Computer Science, I am also pursuing a B.S. degree towards Data Science and Statistics under the Applied and Computational Mathematical Science at UW.  My advisor is [Prof. Noah Smith](https://homes.cs.washington.edu/~nasmith/index.html), and my current research interests lie in machine learning and natural language processing, specifically multilingual QA system, machine translation, and conversational dialogue generation. 
+I am currently a combined B.S./M.S. student at University of Washington studying Computer Science, and I am also pursuing a B.S. degree towards Data Science and Statistics under the Applied and Computational Mathematical Science at UW.  My advisor is [Prof. Noah Smith](https://homes.cs.washington.edu/~nasmith/index.html), and my current research interests lie in machine learning and natural language processing, specifically multilingual QA system, machine translation, and conversational dialogue generation. 
 
 I am super fortunate to work with [Jungo Kasai](https://homes.cs.washington.edu/~jkasai/), [Dr. Rik Koncel-Kedziorski](https://rikdz.github.io) and other amazing graduate students at UW NLP.
 
