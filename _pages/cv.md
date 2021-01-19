@@ -12,23 +12,49 @@ Education
 * B.S. in Computer Science, University of Washington, 2021
 * B.S. in Applied and Computational Mathematical Science -- Data Science track, University of Washington, 2021
 * M.S. in Computer Science, University of Washington, 2022 (Expected)
+* Dean's List of all quarters attended
+
+
+Related Coursework
+======
+Machine Learning, Natural Language Processing, Artificial Intelligence, Deep Learning, Operating Systems, Distributed Systems, Advanced Databases, Systems Programming, Functional Programming, Quantitative Introductory Statistics for Data Science, Intro to Stochastic Processes, Algorithms, Continuous & Discrete Modeling, Probabilities I & II.
+
+I am also planning to take Linear & Nonlinear Optimization and Statistical Methods in Computer Science in the next few quarters ;)!
+
 
 Work experience
 ======
-* Summer 2020: Software Engineering Intern
+* October 2019 - Present: NLP Research Assitant
+  * Noah's Ark @ UW NLP
+  * Duties included:
+    * Work on a multilingual QA system with constraints added during translation process using Python, Fairseq, SpaCy, SciPy, Polyglot and Pytorch
+    * Created an iOS application that gamifies the human evaluation process during language model evaluation using swift and Python
+  * Supervisors: [Jungo Kasai](https://homes.cs.washington.edu/~jkasai/), [Dr. Rik Koncel-Kedziorski](https://rikdz.github.io), [Prof. Noah Smith](https://homes.cs.washington.edu/~nasmith/index.html)
+
+* June 2020 - September 2020: Software Engineering Intern
   * Microsoft
-  * Duties included: Tagging issues
-  * Supervisor: Chris Johnston
-  
-Skills
+  * Duties included: 
+    * Set up a pipeline for a project in Microsoft Research which enables Azure Networking to more effectively detect potential anomalies in running configurations before applying network changes to production using **C++**, **Python**, and **Bash**.
+    * Processed the resulting file to a table and ingested them to Azure Storage through Azure Data Explorer API using Kusto Query Language, and is running in production nightly for each and every data center in the world.
+  * Supervisors: [Chris Johnston](https://chris-johnston.me/about/) (direct), [Dr. Jitu Padhye](https://www.microsoft.com/en-us/research/people/padhye/), and [Dr. Andrey Rybalchenko](https://www.microsoft.com/en-us/research/people/rybal/)
+
+
+TA Experiences
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-  
+CSE 373: Data Structures and Algorithms, [Spring 2019](https://courses.cs.washington.edu/courses/cse373/19sp/), [Summer 2019](https://courses.cs.washington.edu/courses/cse373/19su/), [Fall 2019](https://courses.cs.washington.edu/courses/cse373/19au/)
+CSE 332: Data Structures and Parallelisms, [Winter 2020](https://courses.cs.washington.edu/courses/cse332/20wi/)
+CSE 333: Systems Programming, [Spring 2020](https://courses.cs.washington.edu/courses/cse333/20sp/), [Fall 2020](https://courses.cs.washington.edu/courses/cse333/20au/)
+CSE 473: Artificial Intelligence, [Winter 2021](https://courses.cs.washington.edu/courses/cse473/21wi/)
+
+I really enjoy TAing! 
+
+For Data Structures, I mainly created weekly section handouts that is used among roughly 200 people using Lualatex, held office hours to help with **Java** programming projects, and taught quiz sections to solve data structure problems.
+
+For Systems Programming, I built **Python** autograders to automate **C** and **C++** exercises grading processes, held office hours to help with **C** and **C++** programming projects, and taught quiz sections about systems.
+
+For AI, I create **Python** homework projects with the professor, built autograders using **Docker** and **Python** for these homework projects, and held weekly office hours.
+
+
 Service and leadership
 ======
 * Treasurer of UW ACM (2019 - 2020)
