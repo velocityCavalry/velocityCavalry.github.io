@@ -38,21 +38,13 @@ Work experience
     * Processed the resulting file to a table and ingested them to Azure Storage through Azure Data Explorer API using Kusto Query Language, and is running in production nightly for each and every data center in the world.
   * Supervisors: [Chris Johnston](https://chris-johnston.me/about/) (direct), [Dr. Jitu Padhye](https://www.microsoft.com/en-us/research/people/padhye/), and [Dr. Andrey Rybalchenko](https://www.microsoft.com/en-us/research/people/rybal/)
 
-
-TA Experiences
-======
-CSE 373: Data Structures and Algorithms, [Spring 2019](https://courses.cs.washington.edu/courses/cse373/19sp/), [Summer 2019](https://courses.cs.washington.edu/courses/cse373/19su/), [Fall 2019](https://courses.cs.washington.edu/courses/cse373/19au/)
-CSE 332: Data Structures and Parallelisms, [Winter 2020](https://courses.cs.washington.edu/courses/cse332/20wi/)
-CSE 333: Systems Programming, [Spring 2020](https://courses.cs.washington.edu/courses/cse333/20sp/), [Fall 2020](https://courses.cs.washington.edu/courses/cse333/20au/)
-CSE 473: Artificial Intelligence, [Winter 2021](https://courses.cs.washington.edu/courses/cse473/21wi/)
-
-I really enjoy TAing! 
-
-For Data Structures, I mainly created weekly section handouts that is used among roughly 200 people using Lualatex, held office hours to help with **Java** programming projects, and taught quiz sections to solve data structure problems.
-
-For Systems Programming, I built **Python** autograders to automate **C** and **C++** exercises grading processes, held office hours to help with **C** and **C++** programming projects, and taught quiz sections about systems.
-
-For AI, I create **Python** homework projects with the professor, built autograders using **Docker** and **Python** for these homework projects, and held weekly office hours.
+* April 2019 - Present: Teaching Assistant
+  * University of Washington
+  * Duties included:
+    * Create autograders in **Python** to grade **C**, **C++**, and **Python** homework projects.
+    * Hold weekly or biweekly office hours for debugging.
+    * Create section slides and handouts that will be used amond roughly 200 people using Lualatex.
+    * Teach weekly quiz sections.
 
 
 Service and leadership
