@@ -8,5 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-In construction
+Hi there! My name is Xinyan Yu, (learn how to pronouce it), you can also call me Velocity. 
+
+I am currently a combined B.S./M.S. student at University of Washington studying Computer Science, I am also pursuing a B.S. degree towards Data Science and Statistics under the Applied and Computational Mathematical Science major at UW.  My advisor is Prof. Noah Smith (link), and my current research interests lie in machine learning and natural language processing, specifically multilingual QA system, machine translation, and conversational dialogue generation. 
+
+I am super fortunate to work with amazing graduate student and PhDs: [Jungo Kasai](https://homes.cs.washington.edu/~jkasai/) and [Dr. Rik Koncel-Kedziorski](https://rikdz.github.io).
+
+Previously, I spent the summer at Microsoft Azure Networking on the OnE team where I added a pipeline to the network verification system and had the honor to work with [Chris Johnston](https://chris-johnston.me/about/), [Jitu Padhye](https://www.microsoft.com/en-us/research/people/padhye/), and [Andrey Rybalchenko](https://www.microsoft.com/en-us/research/people/rybal/).
+
+## Misc
+
+
+
+
+
 
