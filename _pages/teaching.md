@@ -5,10 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
-CSE 373: Data Structures and Algorithms, [Spring 2019](https://courses.cs.washington.edu/courses/cse373/19sp/), [Summer 2019](https://courses.cs.washington.edu/courses/cse373/19su/), [Fall 2019](https://courses.cs.washington.edu/courses/cse373/19au/)
-CSE 332: Data Structures and Parallelisms, [Winter 2020](https://courses.cs.washington.edu/courses/cse332/20wi/)
-CSE 333: Systems Programming, [Spring 2020](https://courses.cs.washington.edu/courses/cse333/20sp/), [Fall 2020](https://courses.cs.washington.edu/courses/cse333/20au/)
-CSE 473: Artificial Intelligence, [Winter 2021](https://courses.cs.washington.edu/courses/cse473/21wi/)
+- CSE 373: Data Structures and Algorithms, [Spring 2019](https://courses.cs.washington.edu/courses/cse373/19sp/), [Summer 2019](https://courses.cs.washington.edu/courses/cse373/19su/), [Fall 2019](https://courses.cs.washington.edu/courses/cse373/19au/)
+- CSE 332: Data Structures and Parallelisms, [Winter 2020](https://courses.cs.washington.edu/courses/cse332/20wi/)
+- CSE 333: Systems Programming, [Spring 2020](https://courses.cs.washington.edu/courses/cse333/20sp/), [Fall 2020](https://courses.cs.washington.edu/courses/cse333/20au/)
+- CSE 473: Artificial Intelligence, [Winter 2021](https://courses.cs.washington.edu/courses/cse473/21wi/)
 
 I really enjoy TAing! 
 
