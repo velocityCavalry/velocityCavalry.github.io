@@ -14,7 +14,7 @@ I am currently a combined B.S./M.S. student at University of Washington studying
 
 I am super fortunate to work with [Jungo Kasai](https://homes.cs.washington.edu/~jkasai/), [Dr. Rik Koncel-Kedziorski](https://rikdz.github.io) and other amazing graduate students at UW NLP.
 
-Previously, I spent the summer at Microsoft Azure Networking on the OnE (open network emulator) team where I added a pipeline to the network verification system and had the honor to work with amazing people! Details can be seen in the CV page.
+Previously, I spent the summer at Microsoft Azure Networking on the OnE (open network emulator) team where I added a pipeline to the network verification system and had the honor to work with many brilliant colleagues.
 
 ## Misc
 - I pick "Velocity" as my name myself because when I was taking my very first class at UW, the professor suffered a lot calling my name, so I picked this easy-to-remember name. and it will soon be my legal name (woohoo!).
