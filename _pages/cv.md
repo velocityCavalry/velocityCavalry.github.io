@@ -24,7 +24,7 @@ I am also planning to take Linear & Nonlinear Optimization and Statistical Metho
 
 Work experience
 ======
-* October 2019 - Present: NLP Research Assitant
+* October 2019 - Present: NLP Research Assistant
   * Noah's Ark @ UW NLP
   * Duties included:
     * Work on a multilingual QA system with constraints added during translation process using Python, Fairseq, SpaCy, SciPy, Polyglot and Pytorch
