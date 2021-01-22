@@ -28,14 +28,15 @@ Work experience
   * Noah's Ark @ UW NLP
   * Duties included:
     * Work on a multilingual QA system with constraints added during translation process using **Python, Fairseq, SpaCy, SciPy, Polyglot and Pytorch**
-    * Created an iOS application that gamifies the human evaluation process during language model evaluation using **Swift and Python**
+    * Created an iOS application that gamifies the human evaluation process, and integrated Apple's Speach Recognition API and a DialoGPT model into an iOS application that facilitates cheaper and more accessible human evaluation in evaluation process for language models developments using **Swift and Python**
   * Supervisors: [Jungo Kasai](https://homes.cs.washington.edu/~jkasai/), [Dr. Rik Koncel-Kedziorski](https://rikdz.github.io), [Prof. Noah Smith](https://homes.cs.washington.edu/~nasmith/index.html)
 
 * June 2020 - September 2020: Software Engineering Intern
   * Microsoft
   * Duties included: 
-    * Set up a pipeline for a project in Microsoft Research which enables Azure Networking to more effectively detect potential anomalies in running configurations before applying network changes to production using **C++**, **Python**, and **Bash**.
-    * Processed the resulting file to a table and ingested them to Azure Storage through Azure Data Explorer API using Kusto Query Language, and is running in production nightly for each and every data center in the world.
+    * Set up a pipeline for a project in Microsoft Research which enables Azure Networking to more effectively detect potential anomalies in running configurations before applying network changes to production using **C++**, **Python**, and **Bash**
+    * Processed the resulting file to a table and ingested them to **Azure Storage** through **Azure Data Explorer API** using Kusto Query Language, and is running in production nightly for each and every data center in the world
+    * Used Kusto Query Language to create a web dashboard that is referred and can be extended by network engineers, software engineers and researchers
   * Supervisors: [Chris Johnston](https://chris-johnston.me/about/) (direct), [Dr. Jitu Padhye](https://www.microsoft.com/en-us/research/people/padhye/), and [Dr. Andrey Rybalchenko](https://www.microsoft.com/en-us/research/people/rybal/)
 
 * April 2019 - Present: Teaching Assistant (See [Teaching](https://velocitycavalry.github.io/teaching/) for more information!)  
