@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Velocity Yu"
+title                    : "Xinyan (Velocity) Yu"
 title_separator          : "-"
-name                     : &name "Velocity Yu"
+name                     : &name "Xinyan (Velocity) Yu"
 description              : &description "Combined B.S./M.S. student at University of Washington CSE"
 url                      : https://velocityCavalry.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &XinyanVYu
 facebook:
   username               :
   app_id                 :
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xinyan(Velocity) Yu"
+  name             : "Xinyan (Velocity) Yu"
   avatar           : "velocity-yu.jpg"
   bio              : "Combined B.S./M.S. CSE student at University of Washington"
   location         : "Seattle, WA"

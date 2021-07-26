@@ -8,17 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! My name is Xinyan Yu, you can also call me Velocity :)! 
+Hi there! My name is Xinyan Yu (余忻妍), you can also call me Velocity :)! 
 
 I am currently a combined B.S./M.S. student at University of Washington studying Computer Science, and I am also pursuing a B.S. degree towards Data Science and Statistics under the Applied and Computational Mathematical Science at UW.  My advisor is [Prof. Noah Smith](https://homes.cs.washington.edu/~nasmith/index.html), and my current research interests lie in machine learning and natural language processing, specifically multilingual QA system, machine translation, and conversational dialogue generation. 
 
-I am super fortunate to work with [Jungo Kasai](https://homes.cs.washington.edu/~jkasai/), [Dr. Rik Koncel-Kedziorski](https://rikdz.github.io) and other amazing graduate students at UW NLP.
+I am super fortunate to work with [Akari Asai](https://akariasai.github.io), [Jungo Kasai](https://homes.cs.washington.edu/~jkasai/), [Dr. Rik Koncel-Kedziorski](https://rikdz.github.io) and other amazing graduate students at UW NLP.
 
 Previously, I spent the summer at Microsoft Azure Networking on the OnE (open network emulator) team where I added a pipeline to the network verification system and had the honor to work with many brilliant colleagues.
 
-## Misc
-- I pick "Velocity" as my name myself because when I was taking my very first class at UW, the professor suffered a lot calling my name, so I picked this easy-to-remember name. and it will soon be my legal name (woohoo!).
+## News
+- 2021.6: I will be interning at the search features team at Pinterest this summer ;)!
 
+## Misc
 - The reason I am particularly interested in multilinguality is because I am a multilingual myself.I can speak Mandarin Chinese, English, Japanese, a little bit of German, and a little bit of Spanish. I am also learning Cantonese and Shanghainese, too!
    
 - I come from Chongqing, China, a city that is famous for spicy foods, mountains and cyberpunk sceneries. [Kevin Deng](https://www.instagram.com/kevin.deng/?hl=en) is my favorite cameraman who did a really great job picturing my hometown.
