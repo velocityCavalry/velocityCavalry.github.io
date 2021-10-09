@@ -21,7 +21,6 @@ Machine Learning, Natural Language Processing, Artificial Intelligence, Deep Lea
 
 I am also planning to take Linear & Nonlinear Optimization and Statistical Methods in Computer Science in the next few quarters ;)!
 
-
 Work experience
 ======
 * October 2019 - Present: NLP Research Assistant
