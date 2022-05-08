@@ -11,8 +11,8 @@ Education
 ======
 * B.S. in Computer Science, University of Washington, 2021
 * B.S. in Applied and Computational Mathematical Science -- Data Science track, University of Washington, 2021
-* M.S. in Computer Science, University of Washington, 2022 (Expected)
-* Dean's List of all quarters&years attended
+* M.S. in Computer Science, University of Washington, 2023 (Expected)
+* Dean's List of all quarters & years attended
 
 
 Related Coursework
@@ -23,13 +23,6 @@ I am also planning to take Linear & Nonlinear Optimization and Statistical Metho
 
 Work experience
 ======
-* October 2019 - Present: NLP Research Assistant
-  * Noah's Ark @ UW NLP
-  * Duties included:
-    * Work on a multilingual QA system with constraints added during translation process using **Python, Fairseq, SpaCy, SciPy, Polyglot and Pytorch**
-    * Created an iOS application that gamifies the human evaluation process, and integrated Apple's Speach Recognition API and a DialoGPT model into an iOS application that facilitates cheaper and more accessible human evaluation in evaluation process for language models developments using **Swift and Python**
-  * Supervisors: [Jungo Kasai](https://homes.cs.washington.edu/~jkasai/), [Dr. Rik Koncel-Kedziorski](https://rikdz.github.io), [Prof. Noah Smith](https://homes.cs.washington.edu/~nasmith/index.html)
-
 * June 2020 - September 2020: Software Engineering Intern
   * Microsoft
   * Duties included: 

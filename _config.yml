@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xinyan (Velocity) Yu"
   avatar           : "velocity-yu.jpg"
-  bio              : "Combined B.S./M.S. CSE student at University of Washington"
+  bio              : "Combined B.S./M.S. CS student at University of Washington"
   location         : "Seattle, WA"
   employer         : University of Washington
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "XinyanVYu"
+  twitter          : # "XinyanVYu"
   vine             :
   weibo            :
   xing             :
