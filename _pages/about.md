@@ -14,7 +14,9 @@ I am currently a combined B.S./M.S. student at University of Washington studying
 
  I am super fortunate to work with [Akari Asai](https://akariasai.github.io), [Sewon Min](https://shmsw25.github.io/o), [Jungo Kasai](https://homes.cs.washington.edu/~jkasai/), [Dr. Rik Koncel-Kedziorski](https://rikdz.github.io) and other amazing graduate students at UW NLP.
 
-I spent some time doing software engineering at some companies. Last fall, I was at the FAM (Facebook Ads) Ranking team at Meta where I implement versioning systems for experiments and multi-armed bandits selection optimization strategies. Last summer, I was an intern at the search features team at Pinterest where I worked on a new user search feature based on the topics users have expressed interests in. Back in 2020, I spent a summer at Microsoft Azure Networking on the OnE (open network emulator) team where I added a pipeline to the network verification system. I am happy to answer any questions regarding SWE internship hunting and interviewing!
+I spent some time doing software engineering at some companies. Last fall, I was at the FAM (Facebook Ads) Ranking team at Meta where I implement versioning systems for experiments and multi-armed bandits selection optimization strategies. Last summer, I was an intern at the search features team at Pinterest where I worked on a new user search feature based on the topics users have expressed interests in. Back in 2020, I spent a summer at Microsoft Azure Networking on the OnE (open network emulator) team where I added a pipeline to the network verification system. 
+
+I am happy to answer any questions regarding SWE internship hunting and interviewing!
 
 ## News
 - 2021.10: My summer internship project of topic-based user search for the profiles tab at Pinterest is featured in [this press release](https://www.socialmediatoday.com/news/pinterest-announces-new-features-at-its-creators-festival-including-a-wa/608549/)! Ctrl/Cmd + F "Profiles" to see it in screenshots. 
