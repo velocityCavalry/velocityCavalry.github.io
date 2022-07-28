@@ -19,7 +19,8 @@ I spent some time doing software engineering at some companies. Last fall, I was
 I am happy to answer any questions regarding SWE internship hunting and interviewing!
 
 ## News
-- 2022.07: I start at Meta AI as an AI resident in Seattle!
+- 2022.07: I start my AI residency at Meta AI Seattle.
+- 2022.07: Attend NAACL in Seattle!
 - 2021.10: My summer internship project of topic-based user search for the profiles tab at Pinterest is featured in [this press release](https://www.socialmediatoday.com/news/pinterest-announces-new-features-at-its-creators-festival-including-a-wa/608549/)! Ctrl/Cmd + F "Profiles" to see it in screenshots. 
 - 2021.9: Our [CORA paper](https://arxiv.org/abs/2107.11976) has been accepted to NeurIPS 2021, congrats [Akari](https://akariasai.github.io)! 
 - 2021.8: I start my internship at the FAM ranking team at Facebook in the fall :). 
@@ -27,8 +28,8 @@ I am happy to answer any questions regarding SWE internship hunting and intervie
 - 2021.6: I start my internship at the search features team at Pinterest this summer, excited to work on topic/interest-based people search.
 
 ## Misc
-- The reason I am particularly interested in multilinguality is because I am a multilingual myself.I can speak Mandarin Chinese, English, Japanese, a little bit of German, and a little bit of Spanish. I am also learning Cantonese and Shanghainese, too.
-   
+- The reason I am particularly interested in multilinguality is because I am multilingual myself. I can speak Mandarin Chinese, English, Japanese, a little bit of German, and a little bit of Spanish. I am learning Cantonese and Shanghainese, too.
+
 - I come from Chongqing, China, a city that is famous for spicy foods, mountains and cyberpunk sceneries. [Kevin Deng](https://www.instagram.com/kevin.deng/?hl=en) is my favorite cameraman who did a really great job picturing Chongqing.
 
 
