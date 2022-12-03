@@ -10,10 +10,12 @@ redirect_from:
 
 Hi there! My name is Xinyan Yu (余忻妍), you can also call me Velocity :).
 
-I am currently a combined B.S./M.S. student (in the M.S. stage) at University of Washington studying Computer Science. I received my B.S. degree in Computer Science (departmental honor) and in Data Science and Statistics under the Applied and Computational Mathematical Science from UW. 
-My advisor is [Prof. Noah Smith](https://homes.cs.washington.edu/~nasmith/index.html), [Prof. Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/), and [Prof. Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz). My current research interests lie in machine learning and natural language processing, specifically natural language understanding, multilingual NLP, reasoning, probablistic graphical models, and controllable generation. 
+I am currently a combined B.S./M.S. student (in the M.S. stage) at University of Washington studying Computer Science, and an AI resident at Facebook Artificial Intelligence Research (FAIR) Labs.
 
- I am super fortunate to work with the very best [Akari Asai](https://akariasai.github.io), [Sewon Min](https://shmsw25.github.io), [Jungo Kasai](https://homes.cs.washington.edu/~jkasai/), [Dr. Rik Koncel-Kedziorski](https://rikdz.github.io) and other amazing graduate students at UW NLP.
+I received my B.S. degree in Computer Science (departmental honor) and in Data Science and Statistics under the Applied and Computational Mathematical Science from UW. 
+My advisor is [Prof. Noah Smith](https://homes.cs.washington.edu/~nasmith/index.html), [Prof. Hannaneh Hajishirzi](https://homes.cs.washington.edu/~hannaneh/), and [Prof. Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz). My current research interests lie in machine learning and natural language processing, specifically natural language understanding and reasoning, multilingual NLP, controlled generation, and probablistic graphical models. 
+
+ I am super fortunate to work with the very best [Akari Asai](https://akariasai.github.io), [Sewon Min](https://shmsw25.github.io) and [Jungo Kasai](https://homes.cs.washington.edu/~jkasai/), and many amazing collaborators in UW NLP and FAIR.
 
 I spent some time doing software engineering at some companies. Last fall, I was at the FAM (Facebook Ads) Ranking team at Meta where I implement versioning systems for experiments and multi-armed bandits selection optimization strategies. Last summer, I was an intern at the search features team at Pinterest where I worked on a new user search feature based on the topics users have expressed interests in. Back in 2020, I spent a summer at Microsoft Azure Networking on the OnE (open network emulator) team where I added a pipeline to the network verification system. 
 
@@ -30,8 +32,6 @@ I am happy to answer any questions regarding SWE internship hunting and intervie
 - 2021.8: I start my internship at the FAM ranking team at Facebook in the fall :). 
 - 2021.7: Our [CORA paper](https://arxiv.org/abs/2107.11976) is live on arXiv.
 - 2021.6: I start my internship at the search features team at Pinterest this summer, excited to work on topic/interest-based people search.
-
-## Publications
 
 
 ## Misc
