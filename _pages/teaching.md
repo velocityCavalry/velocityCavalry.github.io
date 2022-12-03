@@ -14,8 +14,10 @@ author_profile: true
 
 I really enjoy TAing!
 
-For Data Structures, I mainly created weekly section handouts that is used among roughly 200 people using Lualatex, held office hours to help with **Java** programming projects, and taught quiz sections to solve data structure problems.
+For Data Structures, I created weekly section handouts that is used among roughly 200 people using Lualatex, held office hours to help with **Java** programming projects, and taught quiz sections to solve data structure problems.
 
 For Systems Programming, I built **Python** autograders to automate **C** and **C++** exercises grading processes, held office hours to help with **C** and **C++** programming projects, and taught quiz sections about systems.
 
-For AI, I create **Python** homework projects with the professor, built autograders using **Docker** and **Python** for these homework projects, and held weekly office hours.
+For AI, I created **Python** homework projects with the professor, built autograders using **Docker** and **Python** for these homework projects, and held weekly office hours.
+
+For NLP, I created weekly section presentation materials for all the TAs and quizzes, held weekly office hours to help with **Python** programming projects and written homework.
