@@ -23,7 +23,6 @@ Conference on Neural Information Processing Systems (NeurIPS), 2021.
 **CREPE: Open-Domain Question Answering with False Presuppositions**      
 [\[Paper\]](https://arxiv.org/abs/2211.17257) / [\[Code\]](https://github.com/velocityCavalry/CREPE) 
 
-
 - Jungo Kasai, Keisuke Sakaguchi, Yoichi Takahashi, Ronan Le Bras, Akari Asai, __Xinyan Yu__, Dragomir Radev, Noah A. Smith, Yejin Choi, Kentaro Inui
 **RealTime QA: What's the Answer Right Now?**
 [\[Paper\]](https://arxiv.org/abs/2207.13332) / [\[Website\]](https://realtimeqa.github.io/) 
