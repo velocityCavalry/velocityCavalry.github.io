@@ -22,11 +22,12 @@ I spent some time doing software engineering at some companies. Last fall, I was
 I am happy to answer any questions regarding SWE internship hunting and interviewing!
 
 ## News
+- 2022.12: Attended EMNLP 2022 in Abu Dhabi! It was great meeting everyone!
 - 2022.12: I am **applying to PhD programs this fall**! Please keep an eye on my application if you've ever found it in a pile of profiles!
-- 2022.12: Checkout my newest preprint with [Sewon](https://shmsw25.github.io/): [CREPE: Open-Domain Question Answering with False Presuppositions](https://arxiv.org/abs/2211.17257) about false presuppositions in long-form question answering datasets!
+- 2022.11: Checkout my newest preprint with [Sewon](https://shmsw25.github.io/): [CREPE: Open-Domain Question Answering with False Presuppositions](https://arxiv.org/abs/2211.17257) about false presuppositions in long-form question answering datasets!
 - 2022.09: Our [multilingual dataset survey paper](https://arxiv.org/abs/2211.15649) has been accepted to Findings of EMNLP 2022! 
 - 2022.07: I start my AI residency at Meta AI Seattle.
-- 2022.07: Attend NAACL in Seattle!
+- 2022.07: Attended NAACL in Seattle!
 - 2021.10: My summer internship project of topic-based user search for the profiles tab at Pinterest is featured in [this press release](https://www.socialmediatoday.com/news/pinterest-announces-new-features-at-its-creators-festival-including-a-wa/608549/)! Ctrl/Cmd + F "Profiles" to see it in screenshots. 
 - 2021.9: Our [CORA paper](https://arxiv.org/abs/2107.11976) has been accepted to NeurIPS 2021, congrats [Akari](https://akariasai.github.io)! 
 - 2021.8: I start my internship at the FAM ranking team at Facebook in the fall :). 
