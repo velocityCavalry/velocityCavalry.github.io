@@ -7,7 +7,7 @@ author_profile: true
 ## 2023 
 [1] __Xinyan Velocity Yu__, Sewon Min, Luke Zettlemoyer, and Hannaneh Hajishirzi                  
 **CREPE: Open-Domain Question Answering with False Presuppositions**   
-Annual Meeting of the Association for Computational Linguistics (ACL), 2023.     
+Oral Presentation at Annual Meeting of the Association for Computational Linguistics (ACL), 2023.     
 [\[Paper\]](https://arxiv.org/abs/2211.17257) / [\[Code\]](https://github.com/velocityCavalry/CREPE) 
 
 [2] Swarnadeep Saha, __Xinyan Velocity Yu__, Mohit Bansal, Ramakanth Pasunuru, and Asli Celikyilmaz  
@@ -32,8 +32,13 @@ Conference on Neural Information Processing Systems (NeurIPS), 2021.
 
 # Preprints
 
+## 2023
+[1] Akari Asai, Sneha Kudugunta, __Xinyan Velocity Yu__, Terra Blevins, Hila Gonen, Machel Reid, Yulia Tsvetkov, Sebastian Ruder,  Hannaneh Hajishirzi
+**BUFFET: Benchmarking Large Language Models for Cross-lingual Few-shot Transfer**
+[\[Paper\]](https://arxiv.org/abs/2305.14857) / [\[Website\]](https://buffetfs.github.io)  
+
 ## 2022
 
-[1] Jungo Kasai, Keisuke Sakaguchi, Yoichi Takahashi, Ronan Le Bras, Akari Asai, __Xinyan Yu__, Dragomir Radev, Noah A. Smith, Yejin Choi, Kentaro Inui  
+[2] Jungo Kasai, Keisuke Sakaguchi, Yoichi Takahashi, Ronan Le Bras, Akari Asai, __Xinyan Yu__, Dragomir Radev, Noah A. Smith, Yejin Choi, Kentaro Inui  
 **RealTime QA: What's the Answer Right Now?**  
 [\[Paper\]](https://arxiv.org/abs/2207.13332) / [\[Website\]](https://realtimeqa.github.io/) 
