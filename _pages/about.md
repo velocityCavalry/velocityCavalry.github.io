@@ -16,7 +16,7 @@ My current research interests lie in machine learning and natural language proce
 
 I spent some time doing software engineering at some companies. In Fall 2021, I was at the FAM (Facebook Ads) Ranking team at Meta where I implement versioning systems for experiments and multi-armed bandits selection optimization strategies. In Summer 2021, I was an intern at the search features team at Pinterest where I worked on a new user search feature based on the topics users have expressed interests in. Back in 2020, I spent a summer at Microsoft Azure Networking on the OnE (open network emulator) team where I added a pipeline to the network verification system. 
 
-I am happy to answer any questions!
+I am happy to answer any questions and chat about research/collaboration! Reach me at \[first_name\]\[initial_of_last_name]@usc.edu.
 
 ## News
 - 2023.08: I moved to LA!

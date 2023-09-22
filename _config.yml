@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xinyan (Velocity) Yu"
+title                    : "Xinyan Velocity Yu"
 title_separator          : "-"
-name                     : &name "Xinyan (Velocity) Yu"
-description              : &description "Combined B.S./M.S. student at University of Washington CSE"
+name                     : &name "Xinyan Velocity Yu"
+description              : &description "1st Year PhD Student At USC"
 url                      : https://velocityCavalry.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "velocityCavalry.github.io"
@@ -80,14 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xinyan (Velocity) Yu"
+  name             : "Xinyan Velocity Yu"
   avatar           : "velocity-yu.jpg"
-  bio              : "Combined B.S./M.S. CS student at University of Washington"
-  location         : "Seattle, WA"
-  employer         : University of Washington
+  bio              : "1st Year PhD Student at USC"
+  location         : "Los Angeles, CA"
+  employer         : University of Southern California
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : xyu530@cs.washington.edu
+  googlescholar    : "https://scholar.google.com/citations?user=PoZv5KkAAAAJ&hl=en&authuser=1"
+  semanticscholar  : "https://www.semanticscholar.org/author/Xinyan-Velocity-Yu/2118211280"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
