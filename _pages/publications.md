@@ -17,7 +17,7 @@ Findings of Annual Meeting of the Association for Computational Linguistics (ACL
 
 [3] Jungo Kasai, Keisuke Sakaguchi, Yoichi Takahashi, Ronan Le Bras, Akari Asai, __Xinyan Yu__, Dragomir Radev, Noah A. Smith, Yejin Choi, Kentaro Inui  
 **RealTime QA: What's the Answer Right Now?**  
-Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track, 2023.
+Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track, 2023.    
 [\[Paper\]](https://arxiv.org/abs/2207.13332) / [\[Website\]](https://realtimeqa.github.io/) 
 
 ## 2022   
@@ -40,13 +40,13 @@ Conference on Neural Information Processing Systems (NeurIPS), 2021.
 ## 2023
 
 [1] Li Du, Afra Amini, Lucas Torroba Hennigen, __Xinyan Velocity Yu__, Jason Eisner, Holden Lee, Ryan Cotterell  
-**Principled Gradient-based Markov Chain Monte Carlo for Text Generation**
+**Principled Gradient-based Markov Chain Monte Carlo for Text Generation**  
 [\[Paper\]](https://arxiv.org/abs/2312.17710) 
 
 [2] Ting-Rui Chiang, __Xinyan Velocity Yu__, Joshua Robinson, Ollie Liu, Isabelle Lee, Dani Yogatama  
-**On Retrieval Augmentation and the Limitations of Language Model Training**
+**On Retrieval Augmentation and the Limitations of Language Model Training**  
 [\[Paper\]](https://arxiv.org/abs/2311.09615)  
 
 [3] Akari Asai, Sneha Kudugunta, __Xinyan Velocity Yu__, Terra Blevins, Hila Gonen, Machel Reid, Yulia Tsvetkov, Sebastian Ruder, Hannaneh Hajishirzi  
-**BUFFET: Benchmarking Large Language Models for Cross-lingual Few-shot Transfer**
+**BUFFET: Benchmarking Large Language Models for Cross-lingual Few-shot Transfer**  
 [\[Paper\]](https://arxiv.org/abs/2305.14857) / [\[Website\]](https://buffetfs.github.io)  
