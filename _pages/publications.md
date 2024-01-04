@@ -39,6 +39,14 @@ Conference on Neural Information Processing Systems (NeurIPS), 2021.
 
 ## 2023
 
-[1] Akari Asai, Sneha Kudugunta, __Xinyan Velocity Yu__, Terra Blevins, Hila Gonen, Machel Reid, Yulia Tsvetkov, Sebastian Ruder,  Hannaneh Hajishirzi
+[1] Li Du, Afra Amini, Lucas Torroba Hennigen, __Xinyan Velocity Yu__, Jason Eisner, Holden Lee, Ryan Cotterell 
+**Principled Gradient-based Markov Chain Monte Carlo for Text Generation**
+[\[Paper\]](https://arxiv.org/abs/2312.17710) 
+
+[2] Ting-Rui Chiang, __Xinyan Velocity Yu__, Joshua Robinson, Ollie Liu, Isabelle Lee, Dani Yogatama 
+**On Retrieval Augmentation and the Limitations of Language Model Training**
+[\[Paper\]](https://arxiv.org/abs/2311.09615)  
+
+[3] Akari Asai, Sneha Kudugunta, __Xinyan Velocity Yu__, Terra Blevins, Hila Gonen, Machel Reid, Yulia Tsvetkov, Sebastian Ruder, Hannaneh Hajishirzi 
 **BUFFET: Benchmarking Large Language Models for Cross-lingual Few-shot Transfer**
 [\[Paper\]](https://arxiv.org/abs/2305.14857) / [\[Website\]](https://buffetfs.github.io)  
