@@ -13,7 +13,7 @@ Annual Conference of the North American Chapter of the Association for Computati
 [\[Paper\]](https://arxiv.org/abs/2311.09615)  
 
 [2] Akari Asai, Sneha Kudugunta, __Xinyan Velocity Yu__, Terra Blevins, Hila Gonen, Machel Reid, Yulia Tsvetkov, Sebastian Ruder, Hannaneh Hajishirzi  
-**BUFFET: Benchmarking Large Language Models for Cross-lingual Few-shot Transfer** 
+**BUFFET: Benchmarking Large Language Models for Cross-lingual Few-shot Transfer**   
 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2024.   
 [\[Paper\]](https://arxiv.org/abs/2305.14857) / [\[Website\]](https://buffetfs.github.io)  
 
@@ -21,7 +21,7 @@ Annual Conference of the North American Chapter of the Association for Computati
 ## 2023 
 [3] __Xinyan Velocity Yu__, Sewon Min, Luke Zettlemoyer, and Hannaneh Hajishirzi                  
 **CREPE: Open-Domain Question Answering with False Presuppositions**   
-Oral Presentation at Annual Meeting of the Association for Computational Linguistics (ACL), 2023.     
+**Oral Presentation** at Annual Meeting of the Association for Computational Linguistics (ACL), 2023.     
 [\[Paper\]](https://arxiv.org/abs/2211.17257) / [\[Code\]](https://github.com/velocityCavalry/CREPE) 
 
 [4] Swarnadeep Saha, __Xinyan Velocity Yu__, Mohit Bansal, Ramakanth Pasunuru, and Asli Celikyilmaz  
