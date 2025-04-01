@@ -5,20 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 
-##  Preprints
-[P1] Zhaofeng Wu, _Xinyan Velocity Yu_, Dani Yogatama, Jiasen Lu, Yoon Kim  
+## Publications
+
+### 2025  
+[10] Zhaofeng Wu, _Xinyan Velocity Yu_, Dani Yogatama, Jiasen Lu, Yoon Kim  
 **The Semantic Hub Hypothesis: Language Models Share Semantic Representations Across Languages and Modalities**  
+International Conference on Learning Representations (ICLR), 2025.
 [\[Paper\]](https://arxiv.org/abs/2411.04986)
 
-[P2] Ting-Rui Chiang, Joshua Robinson, _Xinyan Velocity Yu_, Dani Yogatama   
-**LocateBench: Evaluating the Locating Ability of Vision Language Models**  
-[\[Paper\]](https://arxiv.org/abs/2410.19808)
-
-[P3] Zora Zhiruo Wang*, Akari Asai*, _Xinyan Velocity Yu_, Frank F. Xu, Yiqing Xie, Graham Neubig, Daniel Fried  
+[9] Zora Zhiruo Wang*, Akari Asai*, _Xinyan Velocity Yu_, Frank F. Xu, Yiqing Xie, Graham Neubig, Daniel Fried  
 **CodeRAG-Bench: Can Retrieval Augment Code Generation?**  
+Findings of Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2025. 
 [\[Paper\]](https://arxiv.org/abs/2406.14497)
 
-## Publications
 ### 2024
 
 [8] Li Du, Afra Amini, Lucas Torroba Hennigen, __Xinyan Velocity Yu__, Jason Eisner, Holden Lee, Ryan Cotterell  
@@ -66,4 +65,11 @@ Findings of Empirical Methods in Natural Language Processing (EMNLP), 2022.
 **One Question Answering Model for Many Languages with Cross-lingual Dense Passage Retrieval**    
 Conference on Neural Information Processing Systems (NeurIPS), 2021.        
 [\[Paper\]](https://arxiv.org/abs/2107.11976) / [\[Code\]](https://github.com/AkariAsai/CORA)
+
+
+##  Preprints
+
+[P1] Ting-Rui Chiang, Joshua Robinson, _Xinyan Velocity Yu_, Dani Yogatama   
+**LocateBench: Evaluating the Locating Ability of Vision Language Models**  
+[\[Paper\]](https://arxiv.org/abs/2410.19808)
 
