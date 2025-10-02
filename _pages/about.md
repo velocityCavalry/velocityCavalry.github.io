@@ -19,6 +19,7 @@ I spent some time doing software engineering at some companies. In Fall 2021, I 
 I am happy to answer any questions and chat about research/collaboration! Reach me at \[first_name\]\[initial_of_last_name]@usc.edu.
 
 ## News
+- 2024.06: I will be presenting our [buffet](https://aclanthology.org/2024.naacl-long.100/) paper as an **oral** presentation at NAACL 2024! 
 - 2023.09: Our [Real-time QA](https://arxiv.org/abs/2207.13332) have been accepted at NeurIPS 2023 Dataset track.
 - 2023.07: Attended ACL 2023 with [CREPE](https://arxiv.org/abs/2211.17257) being featured as an **oral** presentation! 
 - 2023.05: Two papers accepted to ACL 2023! See you in Toronto! 
